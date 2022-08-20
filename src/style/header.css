@@ -1,0 +1,26 @@
+nav a{
+  padding-right: 2rem;
+  padding-top: 2rem;
+  float: right;
+  text-decoration: none;
+  font-family: "Optima", sans-serif;
+  color: white;
+  font-size: 20px;
+  font-weight: bolder;
+}
+nav{
+  padding-right: 1rem;
+}
+.google-button{
+  border: none;
+  font-size: 20px;
+  font-family: "Optima", sans-serif;
+  background-color: #B4D7F6;
+  border-radius: 14px;
+  color: white;
+  font-weight: bold;
+}
+.google-button img{
+  padding-right: 5px;
+  vertical-align: middle;
+}
